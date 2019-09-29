@@ -1,0 +1,15 @@
+C:\Users\ertugrul\source\repos\etkinlik\etkinlik\bin\Debug\etkinlik.exe.config
+C:\Users\ertugrul\source\repos\etkinlik\etkinlik\bin\Debug\etkinlik.exe
+C:\Users\ertugrul\source\repos\etkinlik\etkinlik\bin\Debug\etkinlik.pdb
+C:\Users\ertugrul\source\repos\etkinlik\etkinlik\obj\Debug\etkinlik.csprojAssemblyReference.cache
+C:\Users\ertugrul\source\repos\etkinlik\etkinlik\obj\Debug\etkinlik.Properties.Resources.resources
+C:\Users\ertugrul\source\repos\etkinlik\etkinlik\obj\Debug\etkinlik.csproj.GenerateResource.cache
+C:\Users\ertugrul\source\repos\etkinlik\etkinlik\obj\Debug\etkinlik.csproj.CoreCompileInputs.cache
+C:\Users\ertugrul\source\repos\etkinlik\etkinlik\obj\Debug\etkinlik.exe
+C:\Users\ertugrul\source\repos\etkinlik\etkinlik\obj\Debug\etkinlik.pdb
+C:\Users\ertugrul\source\repos\etkinlik\etkinlik\obj\Debug\etkinlik.start_page.resources
+C:\Users\ertugrul\source\repos\etkinlik\etkinlik\obj\Debug\etkinlik.yeni_etkinlik.resources
+C:\Users\ertugrul\source\repos\etkinlik\etkinlik\obj\Debug\etkinlik.baglanti_yap.resources
+C:\Users\ertugrul\source\repos\etkinlik\etkinlik\obj\Debug\etkinlik.kayit_yap.resources
+C:\Users\ertugrul\source\repos\etkinlik\etkinlik\obj\Debug\etkinlik.uye_kayit.resources
+C:\Users\ertugrul\source\repos\etkinlik\etkinlik\obj\Debug\etkinlik.Sertifika_Listesi.resources
